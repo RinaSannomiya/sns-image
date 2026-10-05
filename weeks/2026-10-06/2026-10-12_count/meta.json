@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261012-count",
+  "date": "2026-10-12",
+  "dow": "月",
+  "time": "12:00",
+  "type": "count",
+  "label": "全部でいくつ？ 数あてチャレンジ",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "アメリカ 50"
+  ],
+  "texts": {
+    "x": {
+      "main": "アメリカの州、全部でいくつあるか知ってますか？\n\n予想を数字でコメントしてください👇\n答えは次の画像にあります\n\n#地理クイズ #アメリカ",
+      "reply": "答えは 50州でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-count"
+    },
+    "threads": {
+      "main": "アメリカの州、全部でいくつあるか知ってますか？\n\n予想を数字でコメントしてください👇\n答えは次の画像にあります\n\n#地理クイズ",
+      "reply": "答えは 50州でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-count"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

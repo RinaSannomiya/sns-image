@@ -1,0 +1,30 @@
+{
+  "id": "pm-20261009-soft-promo",
+  "date": "2026-10-09",
+  "dow": "金",
+  "time": "12:00",
+  "type": "soft-promo",
+  "label": "〇〇を全部覚えたい人へ（ふんわり訴求）",
+  "sub": 2962,
+  "copy": 3949,
+  "files": [
+    "01-promo.png"
+  ],
+  "answers": [
+    "アジア"
+  ],
+  "texts": {
+    "x": {
+      "main": "アジアの国を全部覚えたい人へ。\n\n48の国と地域を、ピースをはめて覚える。ブラウザですぐ遊べます🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-soft-promo\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "アジアの国を全部覚えたい人へ。\n\n48の国と地域を、ピースをはめて覚える。ブラウザですぐ遊べます🗺️\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-soft-promo\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-promo.png"
+  ],
+  "reply_images": []
+}

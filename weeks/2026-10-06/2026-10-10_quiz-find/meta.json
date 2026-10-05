@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261010-quiz-find",
+  "date": "2026-10-10",
+  "dow": "土",
+  "time": "12:00",
+  "type": "quiz-find",
+  "label": "〇〇はどこ？ 場所さがしクイズ",
+  "sub": 2962,
+  "copy": 3949,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "チュニジア"
+  ],
+  "texts": {
+    "x": {
+      "main": "【アフリカの場所クイズ】\n「チュニジア」はどこ？\n\nわかった人はリプで「ここ！」と教えてください\n\n#地理クイズ #世界地理",
+      "reply": "チュニジアはここ。\n\n場所の記憶は、ピースをはめるたびに増えていきます。アフリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-find"
+    },
+    "threads": {
+      "main": "【アフリカの場所クイズ】\n「チュニジア」はどこ？\n\nわかった人はリプで「ここ！」と教えてください\n\n#地理クイズ",
+      "reply": "チュニジアはここ。\n\n場所の記憶は、ピースをはめるたびに増えていきます。アフリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-find"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

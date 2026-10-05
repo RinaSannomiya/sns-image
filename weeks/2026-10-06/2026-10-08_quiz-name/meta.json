@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261008-quiz-name",
+  "date": "2026-10-08",
+  "dow": "木",
+  "time": "12:00",
+  "type": "quiz-name",
+  "label": "この国（州）どこ？ 3択クイズ",
+  "sub": 2962,
+  "copy": 3949,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "モーリタニア"
+  ],
+  "texts": {
+    "x": {
+      "main": "【アフリカの国クイズ】\nこの場所の名前、わかりますか？\n\nA. モロッコ\nB. モーリタニア\nC. マリ\n\n答えは返信に書きます\n\n#世界地理 #地理クイズ",
+      "reply": "答えは B「モーリタニア」！\n\n見るだけより、自分でピースをはめると場所が定着します。無料で遊べます👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+    },
+    "threads": {
+      "main": "【アフリカの国クイズ】\nこの場所の名前、わかりますか？\n\nA. モロッコ\nB. モーリタニア\nC. マリ\n\n答えは返信に書きます\n\n#世界地理",
+      "reply": "答えは B「モーリタニア」！\n\n見るだけより、自分でピースをはめると場所が定着します。無料で遊べます👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

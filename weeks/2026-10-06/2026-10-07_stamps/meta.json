@@ -1,0 +1,38 @@
+{
+  "id": "pm-20261007-stamps",
+  "date": "2026-10-07",
+  "dow": "水",
+  "time": "12:00",
+  "type": "stamps",
+  "label": "スタンプを集める楽しさ（やり込み）",
+  "sub": 2961,
+  "copy": 3948,
+  "files": [
+    "01-stamps.png"
+  ],
+  "answers": [
+    "世界の国",
+    "東アフリカ",
+    "南アジア",
+    "西アジア",
+    "アフリカ",
+    "東南アジア",
+    "ヨーロッパ",
+    "北アメリカ",
+    "西アフリカ"
+  ],
+  "texts": {
+    "x": {
+      "main": "パズルをクリアすると、スタンプがもらえます。\n\n250種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（世界のスタンプの一部です）\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-stamps\n\n#PieceMap #スタンプ",
+      "reply": ""
+    },
+    "threads": {
+      "main": "パズルをクリアすると、スタンプがもらえます。\n\n250種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（世界のスタンプの一部です）\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-stamps\n\n#スタンプ",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-stamps.png"
+  ],
+  "reply_images": []
+}

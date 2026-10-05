@@ -1,0 +1,257 @@
+{
+  "start": "2026-10-06",
+  "days": 7,
+  "generated_at": "2026-10-05T02:59:24.995Z",
+  "posts": [
+    {
+      "dir": "2026-10-06_maniac",
+      "id": "pm-20261006-maniac",
+      "date": "2026-10-06",
+      "dow": "火",
+      "time": "12:00",
+      "type": "maniac",
+      "label": "小さな国・島国もピース（マニアック訴求）",
+      "sub": 2961,
+      "copy": 3948,
+      "files": [
+        "01-maniac.png"
+      ],
+      "answers": [
+        "バチカン市国",
+        "サンマリノ",
+        "モナコ",
+        "アンドラ",
+        "リヒテンシュタイン"
+      ],
+      "texts": {
+        "x": {
+          "main": "バチカン市国・サンマリノ・モナコ・アンドラ・リヒテンシュタイン。\n\nこの5つの小さな国、PieceMapではちゃんとピースになっています🗺️\nヨーロッパの細かい国まで、全部覚えられる。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "バチカン市国・サンマリノ・モナコ・アンドラ・リヒテンシュタイン。\n\nこの5つの小さな国、PieceMapではちゃんとピースになっています🗺️\nヨーロッパの細かい国まで、全部覚えられる。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-maniac.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-07_stamps",
+      "id": "pm-20261007-stamps",
+      "date": "2026-10-07",
+      "dow": "水",
+      "time": "12:00",
+      "type": "stamps",
+      "label": "スタンプを集める楽しさ（やり込み）",
+      "sub": 2961,
+      "copy": 3948,
+      "files": [
+        "01-stamps.png"
+      ],
+      "answers": [
+        "世界の国",
+        "東アフリカ",
+        "南アジア",
+        "西アジア",
+        "アフリカ",
+        "東南アジア",
+        "ヨーロッパ",
+        "北アメリカ",
+        "西アフリカ"
+      ],
+      "texts": {
+        "x": {
+          "main": "パズルをクリアすると、スタンプがもらえます。\n\n250種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（世界のスタンプの一部です）\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-stamps\n\n#PieceMap #スタンプ",
+          "reply": ""
+        },
+        "threads": {
+          "main": "パズルをクリアすると、スタンプがもらえます。\n\n250種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（世界のスタンプの一部です）\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-stamps\n\n#スタンプ",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-stamps.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-08_quiz-name",
+      "id": "pm-20261008-quiz-name",
+      "date": "2026-10-08",
+      "dow": "木",
+      "time": "12:00",
+      "type": "quiz-name",
+      "label": "この国（州）どこ？ 3択クイズ",
+      "sub": 2962,
+      "copy": 3949,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "モーリタニア"
+      ],
+      "texts": {
+        "x": {
+          "main": "【アフリカの国クイズ】\nこの場所の名前、わかりますか？\n\nA. モロッコ\nB. モーリタニア\nC. マリ\n\n答えは返信に書きます\n\n#世界地理 #地理クイズ",
+          "reply": "答えは B「モーリタニア」！\n\n見るだけより、自分でピースをはめると場所が定着します。無料で遊べます👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+        },
+        "threads": {
+          "main": "【アフリカの国クイズ】\nこの場所の名前、わかりますか？\n\nA. モロッコ\nB. モーリタニア\nC. マリ\n\n答えは返信に書きます\n\n#世界地理",
+          "reply": "答えは B「モーリタニア」！\n\n見るだけより、自分でピースをはめると場所が定着します。無料で遊べます👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-09_soft-promo",
+      "id": "pm-20261009-soft-promo",
+      "date": "2026-10-09",
+      "dow": "金",
+      "time": "12:00",
+      "type": "soft-promo",
+      "label": "〇〇を全部覚えたい人へ（ふんわり訴求）",
+      "sub": 2962,
+      "copy": 3949,
+      "files": [
+        "01-promo.png"
+      ],
+      "answers": [
+        "アジア"
+      ],
+      "texts": {
+        "x": {
+          "main": "アジアの国を全部覚えたい人へ。\n\n48の国と地域を、ピースをはめて覚える。ブラウザですぐ遊べます🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-soft-promo\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "アジアの国を全部覚えたい人へ。\n\n48の国と地域を、ピースをはめて覚える。ブラウザですぐ遊べます🗺️\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-soft-promo\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-promo.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-10_quiz-find",
+      "id": "pm-20261010-quiz-find",
+      "date": "2026-10-10",
+      "dow": "土",
+      "time": "12:00",
+      "type": "quiz-find",
+      "label": "〇〇はどこ？ 場所さがしクイズ",
+      "sub": 2962,
+      "copy": 3949,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "チュニジア"
+      ],
+      "texts": {
+        "x": {
+          "main": "【アフリカの場所クイズ】\n「チュニジア」はどこ？\n\nわかった人はリプで「ここ！」と教えてください\n\n#地理クイズ #世界地理",
+          "reply": "チュニジアはここ。\n\n場所の記憶は、ピースをはめるたびに増えていきます。アフリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-find"
+        },
+        "threads": {
+          "main": "【アフリカの場所クイズ】\n「チュニジア」はどこ？\n\nわかった人はリプで「ここ！」と教えてください\n\n#地理クイズ",
+          "reply": "チュニジアはここ。\n\n場所の記憶は、ピースをはめるたびに増えていきます。アフリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-find"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-11_maniac",
+      "id": "pm-20261011-maniac",
+      "date": "2026-10-11",
+      "dow": "日",
+      "time": "12:00",
+      "type": "maniac",
+      "label": "小さな国・島国もピース（マニアック訴求）",
+      "sub": 2962,
+      "copy": 3949,
+      "files": [
+        "01-maniac.png"
+      ],
+      "answers": [
+        "キューバ",
+        "ジャマイカ",
+        "ハイチ",
+        "ドミニカ共和国",
+        "バハマ",
+        "トリニダード・トバゴ",
+        "アンティグア・バーブーダ",
+        "セントクリストファー・ネービス",
+        "ドミニカ国",
+        "セントルシア",
+        "セントビンセント・グレナディーン",
+        "グレナダ",
+        "バルバドス"
+      ],
+      "texts": {
+        "x": {
+          "main": "キューバ、ジャマイカ、バハマ、バルバドス……。\nカリブの島国も、ぜんぶピースになっています。\n\n小さな島国もひとまとめにしない、地図パズルです。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "キューバ、ジャマイカ、バハマ、バルバドス……。\nカリブの島国も、ぜんぶピースになっています。\n\n小さな島国もひとまとめにしない、地図パズルです。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-maniac.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-12_count",
+      "id": "pm-20261012-count",
+      "date": "2026-10-12",
+      "dow": "月",
+      "time": "12:00",
+      "type": "count",
+      "label": "全部でいくつ？ 数あてチャレンジ",
+      "sub": 1481,
+      "copy": 1974,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "アメリカ 50"
+      ],
+      "texts": {
+        "x": {
+          "main": "アメリカの州、全部でいくつあるか知ってますか？\n\n予想を数字でコメントしてください👇\n答えは次の画像にあります\n\n#地理クイズ #アメリカ",
+          "reply": "答えは 50州でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-count"
+        },
+        "threads": {
+          "main": "アメリカの州、全部でいくつあるか知ってますか？\n\n予想を数字でコメントしてください👇\n答えは次の画像にあります\n\n#地理クイズ",
+          "reply": "答えは 50州でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-count"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pm-20261011-maniac",
+  "date": "2026-10-11",
+  "dow": "日",
+  "time": "12:00",
+  "type": "maniac",
+  "label": "小さな国・島国もピース（マニアック訴求）",
+  "sub": 2962,
+  "copy": 3949,
+  "files": [
+    "01-maniac.png"
+  ],
+  "answers": [
+    "キューバ",
+    "ジャマイカ",
+    "ハイチ",
+    "ドミニカ共和国",
+    "バハマ",
+    "トリニダード・トバゴ",
+    "アンティグア・バーブーダ",
+    "セントクリストファー・ネービス",
+    "ドミニカ国",
+    "セントルシア",
+    "セントビンセント・グレナディーン",
+    "グレナダ",
+    "バルバドス"
+  ],
+  "texts": {
+    "x": {
+      "main": "キューバ、ジャマイカ、バハマ、バルバドス……。\nカリブの島国も、ぜんぶピースになっています。\n\n小さな島国もひとまとめにしない、地図パズルです。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "キューバ、ジャマイカ、バハマ、バルバドス……。\nカリブの島国も、ぜんぶピースになっています。\n\n小さな島国もひとまとめにしない、地図パズルです。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-maniac.png"
+  ],
+  "reply_images": []
+}
