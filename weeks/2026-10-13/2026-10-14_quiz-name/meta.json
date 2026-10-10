@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261014-quiz-name",
+  "date": "2026-10-14",
+  "dow": "水",
+  "time": "12:00",
+  "type": "quiz-name",
+  "label": "この国（州）どこ？ 3択クイズ",
+  "sub": 2963,
+  "copy": 3950,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ボリビア"
+  ],
+  "texts": {
+    "x": {
+      "main": "南アメリカの地理、どこまで覚えてる？\nこの国はどれ？\n\nA. ペルー\nB. パラグアイ\nC. ボリビア\n\nコメントで予想を教えてください👇\n\n#世界地理 #地理クイズ",
+      "reply": "正解は「ボリビア」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。南アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+    },
+    "threads": {
+      "main": "南アメリカの地理、どこまで覚えてる？\nこの国はどれ？\n\nA. ペルー\nB. パラグアイ\nC. ボリビア\n\nコメントで予想を教えてください👇\n\n#世界地理",
+      "reply": "正解は「ボリビア」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。南アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261018-quiz-find",
+  "date": "2026-10-18",
+  "dow": "日",
+  "time": "12:00",
+  "type": "quiz-find",
+  "label": "〇〇はどこ？ 場所さがしクイズ",
+  "sub": 2963,
+  "copy": 3950,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "エクアドル"
+  ],
+  "texts": {
+    "x": {
+      "main": "南アメリカの地図で、エクアドルを探してみてください。\n\n3秒で指させたら、かなりの地理好きです🗺️\n\n#地理クイズ #世界地理",
+      "reply": "答えはここでした！\n\n「名前だけ知ってる」を「場所までわかる」に。地図パズルで試してみて👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-find"
+    },
+    "threads": {
+      "main": "南アメリカの地図で、エクアドルを探してみてください。\n\n3秒で指させたら、かなりの地理好きです🗺️\n\n#地理クイズ",
+      "reply": "答えはここでした！\n\n「名前だけ知ってる」を「場所までわかる」に。地図パズルで試してみて👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-find"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

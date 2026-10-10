@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261016-tiny",
+  "date": "2026-10-16",
+  "dow": "金",
+  "time": "12:00",
+  "type": "tiny",
+  "label": "世界でいちばん小さい国（豆知識クイズ）",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "バチカン市国"
+  ],
+  "texts": {
+    "x": {
+      "main": "世界でいちばん小さい国はどこでしょう？\n\nヒント：東京ドーム約9個分の広さです🏟️\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+      "reply": "正解は バチカン市国（約0.5km²）！\n\n2位モナコ、3位ナウル、4位ツバル、5位サンマリノ。\n5つとも、PieceMapではちゃんとピースになっています🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-tiny"
+    },
+    "threads": {
+      "main": "世界でいちばん小さい国はどこでしょう？\n\nヒント：東京ドーム約9個分の広さです🏟️\n\n答えは返信で👇\n\n#世界地理",
+      "reply": "正解は バチカン市国（約0.5km²）！\n\n2位モナコ、3位ナウル、4位ツバル、5位サンマリノ。\n5つとも、PieceMapではちゃんとピースになっています🗺️\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-tiny"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

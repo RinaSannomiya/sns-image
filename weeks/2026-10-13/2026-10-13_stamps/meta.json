@@ -1,0 +1,38 @@
+{
+  "id": "pm-20261013-stamps",
+  "date": "2026-10-13",
+  "dow": "火",
+  "time": "12:00",
+  "type": "stamps",
+  "label": "スタンプを集める楽しさ（やり込み）",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-stamps.png"
+  ],
+  "answers": [
+    "ネパール",
+    "フィンランド",
+    "ウクライナ",
+    "ベトナム",
+    "ロシア",
+    "トルコ",
+    "フランス",
+    "ブラジル",
+    "イギリス"
+  ],
+  "texts": {
+    "x": {
+      "main": "パズルをクリアすると、スタンプがもらえます。\n\n500種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（国のスタンプの一部です）\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-stamps\n\n#PieceMap #スタンプ",
+      "reply": ""
+    },
+    "threads": {
+      "main": "パズルをクリアすると、スタンプがもらえます。\n\n500種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（国のスタンプの一部です）\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-stamps\n\n#スタンプ",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-stamps.png"
+  ],
+  "reply_images": []
+}

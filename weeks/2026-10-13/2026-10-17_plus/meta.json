@@ -1,0 +1,30 @@
+{
+  "id": "pm-20261017-plus",
+  "date": "2026-10-17",
+  "dow": "土",
+  "time": "12:00",
+  "type": "plus",
+  "label": "Plus のテーマ（同じ地図が別の地図に）",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-theme.png"
+  ],
+  "answers": [
+    "平均寿命"
+  ],
+  "texts": {
+    "x": {
+      "main": "平均寿命で世界地図を塗り分けると、こうなります🌍\n\nいちばん長い：モナコ 86.5歳 ／ いちばん短い：ナイジェリア 54.6歳\n\n色の地図を手がかりに、国の場所をおぼえる。PieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-plus\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "平均寿命で世界地図を塗り分けると、こうなります🌍\n\nいちばん長い：モナコ 86.5歳 ／ いちばん短い：ナイジェリア 54.6歳\n\n色の地図を手がかりに、国の場所をおぼえる。PieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-plus\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-theme.png"
+  ],
+  "reply_images": []
+}

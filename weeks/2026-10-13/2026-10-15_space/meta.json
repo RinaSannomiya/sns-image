@@ -1,0 +1,30 @@
+{
+  "id": "pm-20261015-space",
+  "date": "2026-10-15",
+  "dow": "木",
+  "time": "12:00",
+  "type": "space",
+  "label": "場所をとらない（現物パズルとの比較）",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-space.png"
+  ],
+  "answers": [
+    "ヨーロッパの国"
+  ],
+  "texts": {
+    "x": {
+      "main": "ヨーロッパの国のパズルって、現物だと置く場所に困りますよね。\n\nアプリなら場所はゼロ。ぜんぶポケットに入ります📱\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-space\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "ヨーロッパの国のパズルって、現物だと置く場所に困りますよね。\n\nアプリなら場所はゼロ。ぜんぶポケットに入ります📱\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-space\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-space.png"
+  ],
+  "reply_images": []
+}

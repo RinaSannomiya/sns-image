@@ -1,0 +1,210 @@
+{
+  "start": "2026-10-13",
+  "days": 6,
+  "generated_at": "2026-10-10T05:12:22.767Z",
+  "posts": [
+    {
+      "dir": "2026-10-13_stamps",
+      "id": "pm-20261013-stamps",
+      "date": "2026-10-13",
+      "dow": "火",
+      "time": "12:00",
+      "type": "stamps",
+      "label": "スタンプを集める楽しさ（やり込み）",
+      "sub": 1481,
+      "copy": 1974,
+      "files": [
+        "01-stamps.png"
+      ],
+      "answers": [
+        "ネパール",
+        "フィンランド",
+        "ウクライナ",
+        "ベトナム",
+        "ロシア",
+        "トルコ",
+        "フランス",
+        "ブラジル",
+        "イギリス"
+      ],
+      "texts": {
+        "x": {
+          "main": "パズルをクリアすると、スタンプがもらえます。\n\n500種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（国のスタンプの一部です）\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-stamps\n\n#PieceMap #スタンプ",
+          "reply": ""
+        },
+        "threads": {
+          "main": "パズルをクリアすると、スタンプがもらえます。\n\n500種類以上のイラストスタンプを、ぜんぶ集めたくなる📖\n（国のスタンプの一部です）\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-stamps\n\n#スタンプ",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-stamps.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-14_quiz-name",
+      "id": "pm-20261014-quiz-name",
+      "date": "2026-10-14",
+      "dow": "水",
+      "time": "12:00",
+      "type": "quiz-name",
+      "label": "この国（州）どこ？ 3択クイズ",
+      "sub": 2963,
+      "copy": 3950,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "ボリビア"
+      ],
+      "texts": {
+        "x": {
+          "main": "南アメリカの地理、どこまで覚えてる？\nこの国はどれ？\n\nA. ペルー\nB. パラグアイ\nC. ボリビア\n\nコメントで予想を教えてください👇\n\n#世界地理 #地理クイズ",
+          "reply": "正解は「ボリビア」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。南アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+        },
+        "threads": {
+          "main": "南アメリカの地理、どこまで覚えてる？\nこの国はどれ？\n\nA. ペルー\nB. パラグアイ\nC. ボリビア\n\nコメントで予想を教えてください👇\n\n#世界地理",
+          "reply": "正解は「ボリビア」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。南アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-15_space",
+      "id": "pm-20261015-space",
+      "date": "2026-10-15",
+      "dow": "木",
+      "time": "12:00",
+      "type": "space",
+      "label": "場所をとらない（現物パズルとの比較）",
+      "sub": 1481,
+      "copy": 1974,
+      "files": [
+        "01-space.png"
+      ],
+      "answers": [
+        "ヨーロッパの国"
+      ],
+      "texts": {
+        "x": {
+          "main": "ヨーロッパの国のパズルって、現物だと置く場所に困りますよね。\n\nアプリなら場所はゼロ。ぜんぶポケットに入ります📱\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-space\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "ヨーロッパの国のパズルって、現物だと置く場所に困りますよね。\n\nアプリなら場所はゼロ。ぜんぶポケットに入ります📱\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-space\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-space.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-16_tiny",
+      "id": "pm-20261016-tiny",
+      "date": "2026-10-16",
+      "dow": "金",
+      "time": "12:00",
+      "type": "tiny",
+      "label": "世界でいちばん小さい国（豆知識クイズ）",
+      "sub": 1481,
+      "copy": 1974,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "バチカン市国"
+      ],
+      "texts": {
+        "x": {
+          "main": "世界でいちばん小さい国はどこでしょう？\n\nヒント：東京ドーム約9個分の広さです🏟️\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+          "reply": "正解は バチカン市国（約0.5km²）！\n\n2位モナコ、3位ナウル、4位ツバル、5位サンマリノ。\n5つとも、PieceMapではちゃんとピースになっています🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-tiny"
+        },
+        "threads": {
+          "main": "世界でいちばん小さい国はどこでしょう？\n\nヒント：東京ドーム約9個分の広さです🏟️\n\n答えは返信で👇\n\n#世界地理",
+          "reply": "正解は バチカン市国（約0.5km²）！\n\n2位モナコ、3位ナウル、4位ツバル、5位サンマリノ。\n5つとも、PieceMapではちゃんとピースになっています🗺️\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-tiny"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-17_plus",
+      "id": "pm-20261017-plus",
+      "date": "2026-10-17",
+      "dow": "土",
+      "time": "12:00",
+      "type": "plus",
+      "label": "Plus のテーマ（同じ地図が別の地図に）",
+      "sub": 1481,
+      "copy": 1974,
+      "files": [
+        "01-theme.png"
+      ],
+      "answers": [
+        "平均寿命"
+      ],
+      "texts": {
+        "x": {
+          "main": "平均寿命で世界地図を塗り分けると、こうなります🌍\n\nいちばん長い：モナコ 86.5歳 ／ いちばん短い：ナイジェリア 54.6歳\n\n色の地図を手がかりに、国の場所をおぼえる。PieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-plus\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "平均寿命で世界地図を塗り分けると、こうなります🌍\n\nいちばん長い：モナコ 86.5歳 ／ いちばん短い：ナイジェリア 54.6歳\n\n色の地図を手がかりに、国の場所をおぼえる。PieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-plus\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-theme.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-18_quiz-find",
+      "id": "pm-20261018-quiz-find",
+      "date": "2026-10-18",
+      "dow": "日",
+      "time": "12:00",
+      "type": "quiz-find",
+      "label": "〇〇はどこ？ 場所さがしクイズ",
+      "sub": 2963,
+      "copy": 3950,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "エクアドル"
+      ],
+      "texts": {
+        "x": {
+          "main": "南アメリカの地図で、エクアドルを探してみてください。\n\n3秒で指させたら、かなりの地理好きです🗺️\n\n#地理クイズ #世界地理",
+          "reply": "答えはここでした！\n\n「名前だけ知ってる」を「場所までわかる」に。地図パズルで試してみて👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-find"
+        },
+        "threads": {
+          "main": "南アメリカの地図で、エクアドルを探してみてください。\n\n3秒で指させたら、かなりの地理好きです🗺️\n\n#地理クイズ",
+          "reply": "答えはここでした！\n\n「名前だけ知ってる」を「場所までわかる」に。地図パズルで試してみて👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-find"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    }
+  ]
+}
