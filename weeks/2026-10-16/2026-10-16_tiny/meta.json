@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261016-tiny",
+  "date": "2026-10-16",
+  "dow": "金",
+  "time": "12:00",
+  "type": "tiny",
+  "label": "イタリアの内陸にある国は？（小さな国の選択肢クイズ）",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "サンマリノ"
+  ],
+  "texts": {
+    "x": {
+      "main": "イタリアの内陸にある国家は、バチカン市国以外にどれでしょう？\n\nA. キプロス\nB. サンマリノ\nC. アンドラ\nD. モナコ\nE. マルタ\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+      "reply": "正解は B「サンマリノ」！\n\n周囲をぐるっとイタリアに囲まれた、内陸の小さな国です。\n小さな国の場所も、ピースで覚えられます🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-tiny"
+    },
+    "threads": {
+      "main": "イタリアの内陸にある国家は、バチカン市国以外にどれでしょう？\n\nA. キプロス\nB. サンマリノ\nC. アンドラ\nD. モナコ\nE. マルタ\n\n答えは返信で👇\n\n#世界地理",
+      "reply": "正解は B「サンマリノ」！\n\n周囲をぐるっとイタリアに囲まれた、内陸の小さな国です。\n小さな国の場所も、ピースで覚えられます🗺️\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-tiny"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}
