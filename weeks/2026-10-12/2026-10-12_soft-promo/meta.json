@@ -1,0 +1,30 @@
+{
+  "id": "pm-20261012-soft-promo",
+  "date": "2026-10-12",
+  "dow": "月",
+  "time": "12:00",
+  "type": "soft-promo",
+  "label": "〇〇を全部覚えたい人へ（ふんわり訴求）",
+  "sub": 1481,
+  "copy": 1974,
+  "files": [
+    "01-promo.png"
+  ],
+  "answers": [
+    "南アメリカ"
+  ],
+  "texts": {
+    "x": {
+      "main": "南アメリカの国を全部覚えたい人へ。\n\n地図パズルなら、ピースをはめるうちに場所が身につきます。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-soft-promo\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "南アメリカの国を全部覚えたい人へ。\n\n地図パズルなら、ピースをはめるうちに場所が身につきます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-soft-promo\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-promo.png"
+  ],
+  "reply_images": []
+}
