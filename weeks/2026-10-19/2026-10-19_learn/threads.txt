@@ -1,0 +1,10 @@
+日本と同じ時刻（UTC+9）の国・地域は、日本のほかにいくつ？
+
+答えは4か国・地域：東ティモール、韓国、パラオ、北朝鮮。
+
+日本との時差がいちばん大きいのは15時間（UTC−6 の7か国・地域）。
+
+出典：IANA Time Zone Database（夏時間を除く）
+
+PieceMap の Plus では、時差を世界地図の色で見られます。
+https://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-learn

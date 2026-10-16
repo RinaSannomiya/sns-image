@@ -1,0 +1,250 @@
+{
+  "start": "2026-10-19",
+  "days": 7,
+  "generated_at": "2026-10-16T22:48:53.514Z",
+  "posts": [
+    {
+      "dir": "2026-10-19_learn",
+      "id": "pm-20261019-learn",
+      "date": "2026-10-19",
+      "dow": "月",
+      "time": "12:00",
+      "type": "learn",
+      "label": "勉強になる投稿（長文。Plus のテーマがある話題は、その地図の画像つき）",
+      "sub": 2962,
+      "copy": 3949,
+      "files": [
+        "01-map.png"
+      ],
+      "answers": [
+        "東ティモール",
+        "韓国",
+        "パラオ",
+        "北朝鮮"
+      ],
+      "texts": {
+        "x": {
+          "main": "日本と同じ時刻（UTC+9）の国・地域は、日本のほかにいくつ？\n\n答えは返信で👇\n\n#世界地理 #豆知識",
+          "reply": "日本のほかに4か国・地域：東ティモール、韓国、パラオ、北朝鮮。\n\n時差がいちばん大きいのは15時間（UTC−6 の7か国・地域）。\n\n出典：IANA Time Zone Database（夏時間を除く）\n\n時差も世界地図の色で🕐\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-learn"
+        },
+        "threads": {
+          "main": "日本と同じ時刻（UTC+9）の国・地域は、日本のほかにいくつ？\n\n答えは4か国・地域：東ティモール、韓国、パラオ、北朝鮮。\n\n日本との時差がいちばん大きいのは15時間（UTC−6 の7か国・地域）。\n\n出典：IANA Time Zone Database（夏時間を除く）\n\nPieceMap の Plus では、時差を世界地図の色で見られます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-learn",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-map.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-20_maniac",
+      "id": "pm-20261020-maniac",
+      "date": "2026-10-20",
+      "dow": "火",
+      "time": "12:00",
+      "type": "maniac",
+      "label": "小さな国・島国もピース（マニアック訴求）",
+      "sub": 2963,
+      "copy": 3950,
+      "files": [
+        "01-maniac.png"
+      ],
+      "answers": [
+        "フィジー",
+        "バヌアツ",
+        "ソロモン諸島",
+        "パラオ",
+        "ミクロネシア連邦",
+        "マーシャル諸島",
+        "ナウル",
+        "キリバス",
+        "ツバル",
+        "サモア",
+        "トンガ"
+      ],
+      "texts": {
+        "x": {
+          "main": "世界地図パズルで遊んでいたら、小さな国がひとまとめだったり、島国がピースになかったりして、全部の国を覚えきれなくてモヤモヤ。\n\nそれが PieceMap を作ったきっかけです。オセアニアの島国もちゃんとピースにしています。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "世界地図パズルで遊んでいたら、小さな国がひとまとめだったり、島国がピースになかったりして、全部の国を覚えきれなくてモヤモヤ。\n\nそれが PieceMap を作ったきっかけです。オセアニアの島国もちゃんとピースにしています。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-maniac.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-21_learn",
+      "id": "pm-20261021-learn",
+      "date": "2026-10-21",
+      "dow": "水",
+      "time": "12:00",
+      "type": "learn",
+      "label": "勉強になる投稿（長文。Plus のテーマがある話題は、その地図の画像つき）",
+      "sub": 2963,
+      "copy": 3950,
+      "files": [
+        "01-map.png"
+      ],
+      "answers": [
+        "キリスト教",
+        "イスラム教",
+        "無宗教",
+        "仏教"
+      ],
+      "texts": {
+        "x": {
+          "main": "国でいちばん多い宗教を数えると、何が最多？\n\nキリスト教 111か国\nイスラム教 50か国\n無宗教 9か国\n仏教 8か国\n\n（182か国・地域で集計）\nくわしくは返信で👇\n\n#世界地理 #豆知識",
+          "reply": "国ごとに「いちばん信者が多い宗教」を調べて、数えたものです。国のなかの割合ではなく、国の数で見ています。\n\n出典：Pew Research Center（2020年）\n\n地図の色でも見られます🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-learn"
+        },
+        "threads": {
+          "main": "国でいちばん多い宗教を数えると、何が最多？\n\nキリスト教 111か国\nイスラム教 50か国\n無宗教 9か国\n仏教 8か国\n\n（182か国・地域を、各国でいちばん多い宗教で分けた数）\n\n国のなかの割合ではなく、国の数で見ています。\n\n出典：Pew Research Center（2020年）\n\nPieceMap の Plus では、この分布を世界地図の色で見られます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-learn",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-map.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-22_quiz-name",
+      "id": "pm-20261022-quiz-name",
+      "date": "2026-10-22",
+      "dow": "木",
+      "time": "12:00",
+      "type": "quiz-name",
+      "label": "この国（州）どこ？ 3択クイズ",
+      "sub": 2964,
+      "copy": 3952,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "ネバダ州"
+      ],
+      "texts": {
+        "x": {
+          "main": "【アメリカの州クイズ】\nこの場所の名前、わかりますか？\n\nA. ユタ州\nB. カリフォルニア州\nC. ネバダ州\n\n答えは返信に書きます\n\n#アメリカ #地理クイズ",
+          "reply": "正解は「ネバダ州」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+        },
+        "threads": {
+          "main": "【アメリカの州クイズ】\nこの場所の名前、わかりますか？\n\nA. ユタ州\nB. カリフォルニア州\nC. ネバダ州\n\n答えは返信に書きます\n\n#アメリカ",
+          "reply": "正解は「ネバダ州」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-23_soft-promo",
+      "id": "pm-20261023-soft-promo",
+      "date": "2026-10-23",
+      "dow": "金",
+      "time": "12:00",
+      "type": "soft-promo",
+      "label": "〇〇を全部覚えたい人へ（ふんわり訴求）",
+      "sub": 1482,
+      "copy": 1976,
+      "files": [
+        "01-promo.png"
+      ],
+      "answers": [
+        "世界"
+      ],
+      "texts": {
+        "x": {
+          "main": "「世界の国の場所を全部覚えたい人」\nそんな人のために作った、地図パズルです。\n\n眺めるより、手を動かすほうが覚えられる。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-soft-promo\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "「世界の国の場所を全部覚えたい人」\nそんな人のために作った、地図パズルです。\n\n眺めるより、手を動かすほうが覚えられる。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-soft-promo\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-promo.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-24_quiz-find",
+      "id": "pm-20261024-quiz-find",
+      "date": "2026-10-24",
+      "dow": "土",
+      "time": "12:00",
+      "type": "quiz-find",
+      "label": "〇〇はどこ？ 場所さがしクイズ",
+      "sub": 2964,
+      "copy": 3952,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "ニュージーランド"
+      ],
+      "texts": {
+        "x": {
+          "main": "【オセアニアの場所クイズ】\n「ニュージーランド」はどこ？\n\nわかった人はリプで「ここ！」と教えてください\n\n#地理クイズ #世界地理",
+          "reply": "答えはここでした！\n\n「名前だけ知ってる」を「場所までわかる」に。地図パズルで試してみて👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-find"
+        },
+        "threads": {
+          "main": "【オセアニアの場所クイズ】\n「ニュージーランド」はどこ？\n\nわかった人はリプで「ここ！」と教えてください\n\n#地理クイズ",
+          "reply": "答えはここでした！\n\n「名前だけ知ってる」を「場所までわかる」に。地図パズルで試してみて👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-find"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-25_maniac",
+      "id": "pm-20261025-maniac",
+      "date": "2026-10-25",
+      "dow": "日",
+      "time": "12:00",
+      "type": "maniac",
+      "label": "小さな国・島国もピース（マニアック訴求）",
+      "sub": 2964,
+      "copy": 3952,
+      "files": [
+        "01-maniac.png"
+      ],
+      "answers": [
+        "バチカン市国",
+        "サンマリノ",
+        "モナコ",
+        "アンドラ",
+        "リヒテンシュタイン"
+      ],
+      "texts": {
+        "x": {
+          "main": "ヨーロッパの小さな国、地図で指させますか？\n\nバチカン市国、サンマリノ、モナコ、アンドラ、リヒテンシュタイン。\n全部ピースになっているので、場所ごと覚えられます。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "ヨーロッパの小さな国、地図で指させますか？\n\nバチカン市国、サンマリノ、モナコ、アンドラ、リヒテンシュタイン。\n全部ピースになっているので、場所ごと覚えられます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-maniac.png"
+      ],
+      "reply_images": []
+    }
+  ]
+}

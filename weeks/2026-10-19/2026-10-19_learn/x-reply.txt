@@ -1,0 +1,8 @@
+日本のほかに4か国・地域：東ティモール、韓国、パラオ、北朝鮮。
+
+時差がいちばん大きいのは15時間（UTC−6 の7か国・地域）。
+
+出典：IANA Time Zone Database（夏時間を除く）
+
+時差も世界地図の色で🕐
+https://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-learn

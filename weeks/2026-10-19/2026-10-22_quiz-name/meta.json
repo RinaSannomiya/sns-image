@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261022-quiz-name",
+  "date": "2026-10-22",
+  "dow": "木",
+  "time": "12:00",
+  "type": "quiz-name",
+  "label": "この国（州）どこ？ 3択クイズ",
+  "sub": 2964,
+  "copy": 3952,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ネバダ州"
+  ],
+  "texts": {
+    "x": {
+      "main": "【アメリカの州クイズ】\nこの場所の名前、わかりますか？\n\nA. ユタ州\nB. カリフォルニア州\nC. ネバダ州\n\n答えは返信に書きます\n\n#アメリカ #地理クイズ",
+      "reply": "正解は「ネバダ州」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+    },
+    "threads": {
+      "main": "【アメリカの州クイズ】\nこの場所の名前、わかりますか？\n\nA. ユタ州\nB. カリフォルニア州\nC. ネバダ州\n\n答えは返信に書きます\n\n#アメリカ",
+      "reply": "正解は「ネバダ州」でした！\n\n場所は、ピースを地図にはめながら覚えると頭に残ります。アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

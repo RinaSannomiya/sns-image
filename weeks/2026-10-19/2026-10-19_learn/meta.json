@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261019-learn",
+  "date": "2026-10-19",
+  "dow": "月",
+  "time": "12:00",
+  "type": "learn",
+  "label": "勉強になる投稿（長文。Plus のテーマがある話題は、その地図の画像つき）",
+  "sub": 2962,
+  "copy": 3949,
+  "files": [
+    "01-map.png"
+  ],
+  "answers": [
+    "東ティモール",
+    "韓国",
+    "パラオ",
+    "北朝鮮"
+  ],
+  "texts": {
+    "x": {
+      "main": "日本と同じ時刻（UTC+9）の国・地域は、日本のほかにいくつ？\n\n答えは返信で👇\n\n#世界地理 #豆知識",
+      "reply": "日本のほかに4か国・地域：東ティモール、韓国、パラオ、北朝鮮。\n\n時差がいちばん大きいのは15時間（UTC−6 の7か国・地域）。\n\n出典：IANA Time Zone Database（夏時間を除く）\n\n時差も世界地図の色で🕐\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-learn"
+    },
+    "threads": {
+      "main": "日本と同じ時刻（UTC+9）の国・地域は、日本のほかにいくつ？\n\n答えは4か国・地域：東ティモール、韓国、パラオ、北朝鮮。\n\n日本との時差がいちばん大きいのは15時間（UTC−6 の7か国・地域）。\n\n出典：IANA Time Zone Database（夏時間を除く）\n\nPieceMap の Plus では、時差を世界地図の色で見られます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-learn",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-map.png"
+  ],
+  "reply_images": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261021-learn",
+  "date": "2026-10-21",
+  "dow": "水",
+  "time": "12:00",
+  "type": "learn",
+  "label": "勉強になる投稿（長文。Plus のテーマがある話題は、その地図の画像つき）",
+  "sub": 2963,
+  "copy": 3950,
+  "files": [
+    "01-map.png"
+  ],
+  "answers": [
+    "キリスト教",
+    "イスラム教",
+    "無宗教",
+    "仏教"
+  ],
+  "texts": {
+    "x": {
+      "main": "国でいちばん多い宗教を数えると、何が最多？\n\nキリスト教 111か国\nイスラム教 50か国\n無宗教 9か国\n仏教 8か国\n\n（182か国・地域で集計）\nくわしくは返信で👇\n\n#世界地理 #豆知識",
+      "reply": "国ごとに「いちばん信者が多い宗教」を調べて、数えたものです。国のなかの割合ではなく、国の数で見ています。\n\n出典：Pew Research Center（2020年）\n\n地図の色でも見られます🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-learn"
+    },
+    "threads": {
+      "main": "国でいちばん多い宗教を数えると、何が最多？\n\nキリスト教 111か国\nイスラム教 50か国\n無宗教 9か国\n仏教 8か国\n\n（182か国・地域を、各国でいちばん多い宗教で分けた数）\n\n国のなかの割合ではなく、国の数で見ています。\n\n出典：Pew Research Center（2020年）\n\nPieceMap の Plus では、この分布を世界地図の色で見られます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-learn",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-map.png"
+  ],
+  "reply_images": []
+}

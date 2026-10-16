@@ -1,0 +1,40 @@
+{
+  "id": "pm-20261020-maniac",
+  "date": "2026-10-20",
+  "dow": "火",
+  "time": "12:00",
+  "type": "maniac",
+  "label": "小さな国・島国もピース（マニアック訴求）",
+  "sub": 2963,
+  "copy": 3950,
+  "files": [
+    "01-maniac.png"
+  ],
+  "answers": [
+    "フィジー",
+    "バヌアツ",
+    "ソロモン諸島",
+    "パラオ",
+    "ミクロネシア連邦",
+    "マーシャル諸島",
+    "ナウル",
+    "キリバス",
+    "ツバル",
+    "サモア",
+    "トンガ"
+  ],
+  "texts": {
+    "x": {
+      "main": "世界地図パズルで遊んでいたら、小さな国がひとまとめだったり、島国がピースになかったりして、全部の国を覚えきれなくてモヤモヤ。\n\nそれが PieceMap を作ったきっかけです。オセアニアの島国もちゃんとピースにしています。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "世界地図パズルで遊んでいたら、小さな国がひとまとめだったり、島国がピースになかったりして、全部の国を覚えきれなくてモヤモヤ。\n\nそれが PieceMap を作ったきっかけです。オセアニアの島国もちゃんとピースにしています。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-maniac.png"
+  ],
+  "reply_images": []
+}

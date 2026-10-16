@@ -1,0 +1,6 @@
+世界地図パズルで遊んでいたら、小さな国がひとまとめだったり、島国がピースになかったりして、全部の国を覚えきれなくてモヤモヤ。
+
+それが PieceMap を作ったきっかけです。オセアニアの島国もちゃんとピースにしています。
+https://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac
+
+#PieceMap #世界地理

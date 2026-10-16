@@ -1,0 +1,15 @@
+国でいちばん多い宗教を数えると、何が最多？
+
+キリスト教 111か国
+イスラム教 50か国
+無宗教 9か国
+仏教 8か国
+
+（182か国・地域を、各国でいちばん多い宗教で分けた数）
+
+国のなかの割合ではなく、国の数で見ています。
+
+出典：Pew Research Center（2020年）
+
+PieceMap の Plus では、この分布を世界地図の色で見られます。
+https://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-learn

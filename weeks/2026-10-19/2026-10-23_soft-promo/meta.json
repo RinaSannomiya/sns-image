@@ -1,0 +1,30 @@
+{
+  "id": "pm-20261023-soft-promo",
+  "date": "2026-10-23",
+  "dow": "金",
+  "time": "12:00",
+  "type": "soft-promo",
+  "label": "〇〇を全部覚えたい人へ（ふんわり訴求）",
+  "sub": 1482,
+  "copy": 1976,
+  "files": [
+    "01-promo.png"
+  ],
+  "answers": [
+    "世界"
+  ],
+  "texts": {
+    "x": {
+      "main": "「世界の国の場所を全部覚えたい人」\nそんな人のために作った、地図パズルです。\n\n眺めるより、手を動かすほうが覚えられる。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-soft-promo\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "「世界の国の場所を全部覚えたい人」\nそんな人のために作った、地図パズルです。\n\n眺めるより、手を動かすほうが覚えられる。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-soft-promo\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-promo.png"
+  ],
+  "reply_images": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pm-20261025-maniac",
+  "date": "2026-10-25",
+  "dow": "日",
+  "time": "12:00",
+  "type": "maniac",
+  "label": "小さな国・島国もピース（マニアック訴求）",
+  "sub": 2964,
+  "copy": 3952,
+  "files": [
+    "01-maniac.png"
+  ],
+  "answers": [
+    "バチカン市国",
+    "サンマリノ",
+    "モナコ",
+    "アンドラ",
+    "リヒテンシュタイン"
+  ],
+  "texts": {
+    "x": {
+      "main": "ヨーロッパの小さな国、地図で指させますか？\n\nバチカン市国、サンマリノ、モナコ、アンドラ、リヒテンシュタイン。\n全部ピースになっているので、場所ごと覚えられます。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-maniac\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "ヨーロッパの小さな国、地図で指させますか？\n\nバチカン市国、サンマリノ、モナコ、アンドラ、リヒテンシュタイン。\n全部ピースになっているので、場所ごと覚えられます。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-maniac\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-maniac.png"
+  ],
+  "reply_images": []
+}
