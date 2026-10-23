@@ -1,0 +1,247 @@
+{
+  "start": "2026-10-26",
+  "days": 7,
+  "generated_at": "2026-10-23T23:18:04.454Z",
+  "posts": [
+    {
+      "dir": "2026-10-26_count",
+      "id": "pm-20261026-count",
+      "date": "2026-10-26",
+      "dow": "月",
+      "time": "12:00",
+      "type": "count",
+      "label": "全部でいくつ？ 数あてチャレンジ",
+      "sub": 1482,
+      "copy": 1976,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "ヨーロッパ 46"
+      ],
+      "texts": {
+        "x": {
+          "main": "ヨーロッパの国の数、ぴったり当てられたらすごい。\n\n予想は？ 答えは返信で👇\n\n#地理クイズ #世界地理",
+          "reply": "答えは 46（国と地域）でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-count"
+        },
+        "threads": {
+          "main": "ヨーロッパの国の数、ぴったり当てられたらすごい。\n\n予想は？ 答えは返信で👇\n\n#地理クイズ",
+          "reply": "答えは 46（国と地域）でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-count"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-27_stamps",
+      "id": "pm-20261027-stamps",
+      "date": "2026-10-27",
+      "dow": "火",
+      "time": "12:00",
+      "type": "stamps",
+      "label": "スタンプを集める楽しさ（やり込み）",
+      "sub": 1482,
+      "copy": 1976,
+      "files": [
+        "01-stamps.png"
+      ],
+      "answers": [
+        "中部アフリカ",
+        "中米",
+        "東ヨーロッパ",
+        "北アフリカ",
+        "世界",
+        "南アメリカ",
+        "西アフリカ",
+        "アジア",
+        "北アメリカ"
+      ],
+      "texts": {
+        "x": {
+          "main": "「全部集めたい」が止まらない、スタンプ帳。\n\n場所を覚えて、クリアして、スタンプを集める。500種類以上あります。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-stamps\n\n#PieceMap #スタンプ",
+          "reply": ""
+        },
+        "threads": {
+          "main": "「全部集めたい」が止まらない、スタンプ帳。\n\n場所を覚えて、クリアして、スタンプを集める。500種類以上あります。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-stamps\n\n#スタンプ",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-stamps.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-28_quiz-name",
+      "id": "pm-20261028-quiz-name",
+      "date": "2026-10-28",
+      "dow": "水",
+      "time": "12:00",
+      "type": "quiz-name",
+      "label": "この国（州）どこ？ 3択クイズ",
+      "sub": 2965,
+      "copy": 3953,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "ポルトガル"
+      ],
+      "texts": {
+        "x": {
+          "main": "ヨーロッパの地理、どこまで覚えてる？\nこの国はどれ？\n\nA. スイス\nB. ポルトガル\nC. スペイン\n\nコメントで予想を教えてください👇\n\n#世界地理 #地理クイズ",
+          "reply": "答えは B「ポルトガル」！\n\n見るだけより、自分でピースをはめると場所が定着します。無料で遊べます👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-name"
+        },
+        "threads": {
+          "main": "ヨーロッパの地理、どこまで覚えてる？\nこの国はどれ？\n\nA. スイス\nB. ポルトガル\nC. スペイン\n\nコメントで予想を教えてください👇\n\n#世界地理",
+          "reply": "答えは B「ポルトガル」！\n\n見るだけより、自分でピースをはめると場所が定着します。無料で遊べます👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-name"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-29_space",
+      "id": "pm-20261029-space",
+      "date": "2026-10-29",
+      "dow": "木",
+      "time": "12:00",
+      "type": "space",
+      "label": "場所をとらない（現物パズルとの比較）",
+      "sub": 1482,
+      "copy": 1976,
+      "files": [
+        "01-space.png"
+      ],
+      "answers": [
+        "世界の国"
+      ],
+      "texts": {
+        "x": {
+          "main": "世界の国を地図パズルで覚えたい。\nでも、現物を広げる場所がない。\n\nそんな人に、ブラウザで遊べる地図パズルを作りました。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-space\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "世界の国を地図パズルで覚えたい。\nでも、現物を広げる場所がない。\n\nそんな人に、ブラウザで遊べる地図パズルを作りました。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-space\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-space.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-10-30_tiny",
+      "id": "pm-20261030-tiny",
+      "date": "2026-10-30",
+      "dow": "金",
+      "time": "12:00",
+      "type": "tiny",
+      "label": "イタリアの内陸にある国は？（小さな国の選択肢クイズ）",
+      "sub": 1482,
+      "copy": 1976,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "サンマリノ"
+      ],
+      "texts": {
+        "x": {
+          "main": "イタリアの内陸にある国家は、バチカン市国以外にどれでしょう？\n\nA. アンドラ\nB. マルタ\nC. モナコ\nD. キプロス\nE. サンマリノ\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+          "reply": "正解は E「サンマリノ」！\n\n周囲をぐるっとイタリアに囲まれた、内陸の小さな国です。\n小さな国の場所も、ピースで覚えられます🗺️\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-tiny"
+        },
+        "threads": {
+          "main": "イタリアの内陸にある国家は、バチカン市国以外にどれでしょう？\n\nA. アンドラ\nB. マルタ\nC. モナコ\nD. キプロス\nE. サンマリノ\n\n答えは返信で👇\n\n#世界地理",
+          "reply": "正解は E「サンマリノ」！\n\n周囲をぐるっとイタリアに囲まれた、内陸の小さな国です。\n小さな国の場所も、ピースで覚えられます🗺️\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-tiny"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    },
+    {
+      "dir": "2026-10-31_plus",
+      "id": "pm-20261031-plus",
+      "date": "2026-10-31",
+      "dow": "土",
+      "time": "12:00",
+      "type": "plus",
+      "label": "Plus のテーマ（同じ地図が別の地図に）",
+      "sub": 1482,
+      "copy": 1976,
+      "files": [
+        "01-themes.png"
+      ],
+      "answers": [
+        "時差（標準時）",
+        "平均寿命",
+        "栄養不足の人の割合",
+        "国でいちばん多い宗教"
+      ],
+      "texts": {
+        "x": {
+          "main": "同じ世界地図が、テーマを変えるだけで別の地図に見える🌍\n\n平均寿命・宗教・時差・栄養不足……。色を手がかりにすると、国の場所が覚えやすくなります。\n\nPieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-plus\n\n#PieceMap #世界地理",
+          "reply": ""
+        },
+        "threads": {
+          "main": "同じ世界地図が、テーマを変えるだけで別の地図に見える🌍\n\n平均寿命・宗教・時差・栄養不足……。色を手がかりにすると、国の場所が覚えやすくなります。\n\nPieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-plus\n\n#世界地理",
+          "reply": ""
+        }
+      },
+      "main_images": [
+        "01-themes.png"
+      ],
+      "reply_images": []
+    },
+    {
+      "dir": "2026-11-01_quiz-find",
+      "id": "pm-20261101-quiz-find",
+      "date": "2026-11-01",
+      "dow": "日",
+      "time": "12:00",
+      "type": "quiz-find",
+      "label": "〇〇はどこ？ 場所さがしクイズ",
+      "sub": 2965,
+      "copy": 3953,
+      "files": [
+        "01-question.png",
+        "02-answer.png"
+      ],
+      "answers": [
+        "ペンシルベニア州"
+      ],
+      "texts": {
+        "x": {
+          "main": "アメリカの地図で、ペンシルベニア州を探してみてください。\n\n3秒で指させたら、かなりの地理好きです🗺️\n\n#地理クイズ #アメリカ",
+          "reply": "ペンシルベニア州はここ。\n\n場所の記憶は、ピースをはめるたびに増えていきます。アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-quiz-find"
+        },
+        "threads": {
+          "main": "アメリカの地図で、ペンシルベニア州を探してみてください。\n\n3秒で指させたら、かなりの地理好きです🗺️\n\n#地理クイズ",
+          "reply": "ペンシルベニア州はここ。\n\n場所の記憶は、ピースをはめるたびに増えていきます。アメリカのパズルはこちら👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-quiz-find"
+        }
+      },
+      "main_images": [
+        "01-question.png"
+      ],
+      "reply_images": [
+        "02-answer.png"
+      ]
+    }
+  ]
+}

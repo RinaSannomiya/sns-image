@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261026-count",
+  "date": "2026-10-26",
+  "dow": "月",
+  "time": "12:00",
+  "type": "count",
+  "label": "全部でいくつ？ 数あてチャレンジ",
+  "sub": 1482,
+  "copy": 1976,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ヨーロッパ 46"
+  ],
+  "texts": {
+    "x": {
+      "main": "ヨーロッパの国の数、ぴったり当てられたらすごい。\n\n予想は？ 答えは返信で👇\n\n#地理クイズ #世界地理",
+      "reply": "答えは 46（国と地域）でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-count"
+    },
+    "threads": {
+      "main": "ヨーロッパの国の数、ぴったり当てられたらすごい。\n\n予想は？ 答えは返信で👇\n\n#地理クイズ",
+      "reply": "答えは 46（国と地域）でした！\n\n全部の場所を覚えたい人は、地図パズルで一緒にどうぞ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-count"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

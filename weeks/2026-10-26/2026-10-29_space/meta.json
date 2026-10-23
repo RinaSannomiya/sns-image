@@ -1,0 +1,30 @@
+{
+  "id": "pm-20261029-space",
+  "date": "2026-10-29",
+  "dow": "木",
+  "time": "12:00",
+  "type": "space",
+  "label": "場所をとらない（現物パズルとの比較）",
+  "sub": 1482,
+  "copy": 1976,
+  "files": [
+    "01-space.png"
+  ],
+  "answers": [
+    "世界の国"
+  ],
+  "texts": {
+    "x": {
+      "main": "世界の国を地図パズルで覚えたい。\nでも、現物を広げる場所がない。\n\nそんな人に、ブラウザで遊べる地図パズルを作りました。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-space\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "世界の国を地図パズルで覚えたい。\nでも、現物を広げる場所がない。\n\nそんな人に、ブラウザで遊べる地図パズルを作りました。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-space\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-space.png"
+  ],
+  "reply_images": []
+}

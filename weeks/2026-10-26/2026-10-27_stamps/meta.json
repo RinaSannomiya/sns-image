@@ -1,0 +1,38 @@
+{
+  "id": "pm-20261027-stamps",
+  "date": "2026-10-27",
+  "dow": "火",
+  "time": "12:00",
+  "type": "stamps",
+  "label": "スタンプを集める楽しさ（やり込み）",
+  "sub": 1482,
+  "copy": 1976,
+  "files": [
+    "01-stamps.png"
+  ],
+  "answers": [
+    "中部アフリカ",
+    "中米",
+    "東ヨーロッパ",
+    "北アフリカ",
+    "世界",
+    "南アメリカ",
+    "西アフリカ",
+    "アジア",
+    "北アメリカ"
+  ],
+  "texts": {
+    "x": {
+      "main": "「全部集めたい」が止まらない、スタンプ帳。\n\n場所を覚えて、クリアして、スタンプを集める。500種類以上あります。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-stamps\n\n#PieceMap #スタンプ",
+      "reply": ""
+    },
+    "threads": {
+      "main": "「全部集めたい」が止まらない、スタンプ帳。\n\n場所を覚えて、クリアして、スタンプを集める。500種類以上あります。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-stamps\n\n#スタンプ",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-stamps.png"
+  ],
+  "reply_images": []
+}

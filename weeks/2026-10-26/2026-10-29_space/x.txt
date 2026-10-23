@@ -1,0 +1,7 @@
+世界の国を地図パズルで覚えたい。
+でも、現物を広げる場所がない。
+
+そんな人に、ブラウザで遊べる地図パズルを作りました。
+https://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-space
+
+#PieceMap #世界地理

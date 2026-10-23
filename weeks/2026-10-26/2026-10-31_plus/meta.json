@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261031-plus",
+  "date": "2026-10-31",
+  "dow": "土",
+  "time": "12:00",
+  "type": "plus",
+  "label": "Plus のテーマ（同じ地図が別の地図に）",
+  "sub": 1482,
+  "copy": 1976,
+  "files": [
+    "01-themes.png"
+  ],
+  "answers": [
+    "時差（標準時）",
+    "平均寿命",
+    "栄養不足の人の割合",
+    "国でいちばん多い宗教"
+  ],
+  "texts": {
+    "x": {
+      "main": "同じ世界地図が、テーマを変えるだけで別の地図に見える🌍\n\n平均寿命・宗教・時差・栄養不足……。色を手がかりにすると、国の場所が覚えやすくなります。\n\nPieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-plus\n\n#PieceMap #世界地理",
+      "reply": ""
+    },
+    "threads": {
+      "main": "同じ世界地図が、テーマを変えるだけで別の地図に見える🌍\n\n平均寿命・宗教・時差・栄養不足……。色を手がかりにすると、国の場所が覚えやすくなります。\n\nPieceMap Plusのテーマです。\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-plus\n\n#世界地理",
+      "reply": ""
+    }
+  },
+  "main_images": [
+    "01-themes.png"
+  ],
+  "reply_images": []
+}
