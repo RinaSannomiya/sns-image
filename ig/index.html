@@ -79,7 +79,7 @@
 <main>
   <span class="badge" id="badge">Instagram</span>
   <h1 id="h1">投稿ページ</h1>
-  <p class="lead">①を押すだけで、キャプションのコピーと、共有メニューが開きます。</p>
+  <p class="lead" id="lead">①を押すだけで、キャプションのコピーと、共有メニューが開きます。</p>
 
   <section class="card">
     <div id="media" class="media"></div>
@@ -103,7 +103,7 @@
   <a class="btn" href="https://www.instagram.com/" id="igLink">アプリを開く</a>
 
   <section class="card" style="margin-top:20px">
-    <ol class="steps">
+    <ol class="steps" id="steps">
       <li>①を押す → 共有メニューで投稿するアプリを選ぶ</li>
       <li>投稿画面でキャプション欄を長押し → 「ペースト」</li>
       <li>内容を確認して、投稿する</li>
@@ -144,7 +144,19 @@
   $("h1").textContent = app + "に投稿"; document.documentElement.setAttribute("data-app", app); $("badge").textContent = app;
   document.title = app + "投稿ページ";
   $("igLink").href = APPS[app]; $("igLink").textContent = app + "アプリを開く";
-  if (title) { $("title").textContent = title; $("titleCard").hidden = false; $("copyTitleBtn").hidden = false; }
+  // YouTube は、タイトル入力の画面がキャプション（説明）より先に出る。①でコピーするのはタイトル、キャプションは②で別にコピー
+  var ytFlow = app === "YouTube" && !!title;
+  var firstText = ytFlow ? title : caption;
+  var firstName = ytFlow ? "タイトル" : "キャプション";
+  if (title) { $("title").textContent = title; $("titleCard").hidden = false; $("copyTitleBtn").hidden = ytFlow; }
+  if (ytFlow) {
+    shareBtn.textContent = "① タイトルをコピーして共有";
+    $("copyBtn").textContent = "② キャプション（説明）をコピー";
+    $("copyBtn").className = "primary";
+    $("steps").innerHTML = "<li>①を押す → 共有メニューで YouTube を選ぶ</li><li>タイトル欄を長押し → 「ペースト」</li><li>②を押して、説明欄にキャプションをペースト</li><li>内容を確認して、投稿する</li>";
+    $("lead").textContent = "①でタイトルのコピーと共有メニュー、②でキャプションのコピーです。";
+    document.querySelector("#capCard .cap-title").textContent = "CAPTION（説明欄）";
+  }
   var files = [];
 
   if (!urls.length) { say("投稿する動画／画像が見つかりません。通知からもう一度開いてください。", "err"); return; }
@@ -176,7 +188,7 @@
     shareBtn.disabled = false; saveBtn.disabled = false;
     var canShare = !!(navigator.canShare && navigator.canShare({ files: files }));
     if (!canShare) {
-      shareBtn.textContent = "① キャプションをコピー（この端末は共有メニュー非対応）";
+      shareBtn.textContent = "① " + firstName + "をコピー（この端末は共有メニュー非対応）";
       say("準備できました。「動画（画像）を端末に保存」を使ってください。", "ok");
     } else {
       say("準備できました。①を押してください。", "ok");
@@ -203,14 +215,14 @@
 
   // ① コピーと共有を、同じ「タップ」の中で始める（iPhoneは、タップの直後でないと共有メニューを出せない）
   shareBtn.addEventListener("click", function () {
-    var copied = copyText(caption);               // 待たずに開始
+    var copied = copyText(firstText);             // 待たずに開始
     var canShare = !!(navigator.canShare && navigator.canShare({ files: files }));
     if (!canShare) {
-      copied.then(function (ok) { say(ok ? "キャプションをコピーしました。次に、保存ボタンで保存して、Instagramから選んでください。" : "共有に対応していません。保存ボタンを使ってください。", ok ? "ok" : "err"); });
+      copied.then(function (ok) { say(ok ? firstName + "をコピーしました。次に、保存ボタンで保存して、" + app + "から選んでください。" : "共有に対応していません。保存ボタンを使ってください。", ok ? "ok" : "err"); });
       return;
     }
     navigator.share({ files: files }).then(function () {
-      return copied.then(function (ok) { say(ok ? "共有しました。" + app + "の投稿画面で、キャプション欄を長押ししてペーストしてください。" : "共有しました。キャプションは「キャプションだけコピー」で。", "ok"); });
+      return copied.then(function (ok) { say(ok ? (ytFlow ? "共有しました。YouTube のタイトル欄を長押ししてペーストしてください。説明欄は②でコピーできます。" : "共有しました。" + app + "の投稿画面で、キャプション欄を長押ししてペーストしてください。") : "共有しました。" + firstName + "は下のボタンでコピーできます。", "ok"); });
     }).catch(function (e) {
       if (e && e.name === "AbortError") { say("共有をやめました。もう一度①を押せます。"); }
       else { say("共有できませんでした（" + (e && e.name) + "）。保存ボタンから保存してください。", "err"); }
