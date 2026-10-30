@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261107-series",
+  "date": "2026-11-07",
+  "dow": "土",
+  "time": "12:00",
+  "type": "series",
+  "label": "世界の国を全部おぼえる（毎日5ヶ国：問題 → 答え）",
+  "sub": 20764,
+  "copy": 27685,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ベトナム"
+  ],
+  "texts": {
+    "x": {
+      "main": "【世界の国を全部おぼえる】アジア編 9/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+      "reply": "正解はベトナムでした。\nインドシナ半島の東側を\nS字にのびる細長い国\n\n毎日少しずつ。覚えたかどうか、ゲームで確かめてみてください👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-series"
+    },
+    "threads": {
+      "main": "【世界の国を全部おぼえる】アジア編 9/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理",
+      "reply": "正解はベトナムでした。\nインドシナ半島の東側を\nS字にのびる細長い国\n\n毎日少しずつ。覚えたかどうか、ゲームで確かめてみてください👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-series"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

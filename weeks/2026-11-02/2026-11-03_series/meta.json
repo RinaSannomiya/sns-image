@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261103-series",
+  "date": "2026-11-03",
+  "dow": "火",
+  "time": "12:00",
+  "type": "series",
+  "label": "世界の国を全部おぼえる（毎日5ヶ国：問題 → 答え）",
+  "sub": 20760,
+  "copy": 27680,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ブータン"
+  ],
+  "texts": {
+    "x": {
+      "main": "【世界の国を全部おぼえる】アジア編 5/45\n毎日見ていれば、世界の国の場所が全部わかる。\n\nこの国、どこかな？答えは返信に。\n\n#世界地理 #地理クイズ",
+      "reply": "答えは「ブータン」！\nヒマラヤの山あいにある\nインドと中国にはさまれた小さな国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-series"
+    },
+    "threads": {
+      "main": "【世界の国を全部おぼえる】アジア編 5/45\n毎日見ていれば、世界の国の場所が全部わかる。\n\nこの国、どこかな？答えは返信に。\n\n#世界地理",
+      "reply": "答えは「ブータン」！\nヒマラヤの山あいにある\nインドと中国にはさまれた小さな国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-series"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261106-series",
+  "date": "2026-11-06",
+  "dow": "金",
+  "time": "12:00",
+  "type": "series",
+  "label": "世界の国を全部おぼえる（毎日5ヶ国：問題 → 答え）",
+  "sub": 20763,
+  "copy": 27684,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ラオス"
+  ],
+  "texts": {
+    "x": {
+      "main": "【世界の国を全部おぼえる】アジア編 8/45\n毎日1ヶ国ずつ、世界の国の場所と形を覚えよう！\n\n赤くかこんだこの国、どこかな？\n答えは返信に書きます\n\n#世界地理 #地理クイズ",
+      "reply": "答えは「ラオス」！\n東南アジアで\n海に面していない国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-series"
+    },
+    "threads": {
+      "main": "【世界の国を全部おぼえる】アジア編 8/45\n毎日1ヶ国ずつ、世界の国の場所と形を覚えよう！\n\n赤くかこんだこの国、どこかな？\n答えは返信に書きます\n\n#世界地理",
+      "reply": "答えは「ラオス」！\n東南アジアで\n海に面していない国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-series"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}

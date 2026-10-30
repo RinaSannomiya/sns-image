@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261105-series",
+  "date": "2026-11-05",
+  "dow": "木",
+  "time": "12:00",
+  "type": "series",
+  "label": "世界の国を全部おぼえる（毎日5ヶ国：問題 → 答え）",
+  "sub": 20762,
+  "copy": 27682,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "ミャンマー"
+  ],
+  "texts": {
+    "x": {
+      "main": "【世界の国を全部おぼえる】アジア編 7/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+      "reply": "答えは「ミャンマー」！\nインドとタイの間\nベンガル湾に面して南北に長い国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-series"
+    },
+    "threads": {
+      "main": "【世界の国を全部おぼえる】アジア編 7/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理",
+      "reply": "答えは「ミャンマー」！\nインドとタイの間\nベンガル湾に面して南北に長い国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-series"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}
