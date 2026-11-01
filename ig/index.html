@@ -96,9 +96,15 @@
     <pre id="caption"></pre>
   </section>
 
+  <section class="card" id="tagCard" hidden>
+    <p class="cap-title">TAGS（タグ欄）</p>
+    <pre id="tags"></pre>
+  </section>
+
   <button id="shareBtn" class="primary" disabled>① キャプションをコピーして共有</button>
   <button id="copyTitleBtn" hidden>タイトルだけコピー</button>
   <button id="copyBtn" hidden>キャプションだけコピー</button>
+  <button id="tagBtn" class="primary" hidden>③ タグをコピー</button>
   <button id="saveBtn" disabled>動画（画像）を端末に保存</button>
   <a class="btn" href="https://www.instagram.com/" id="igLink">アプリを開く</a>
 
@@ -139,6 +145,7 @@
   var urls = q.getAll("v").filter(allowed);
   var caption = h.get("c") || "";
   var title = h.get("t") || "";
+  var tags = h.get("g") || "";   // YouTube のタグ欄に貼る語（カンマ区切り）
   var APPS = { "Instagram": "https://www.instagram.com/", "TikTok": "https://www.tiktok.com/", "YouTube": "https://www.youtube.com/" };
   var app = APPS[h.get("app")] ? h.get("app") : "Instagram";
   $("h1").textContent = app + "に投稿"; document.documentElement.setAttribute("data-app", app); $("badge").textContent = app;
@@ -153,8 +160,9 @@
     shareBtn.textContent = "① タイトルをコピーして共有";
     $("copyBtn").textContent = "② キャプション（説明）をコピー";
     $("copyBtn").className = "primary";
-    $("steps").innerHTML = "<li>①を押す → 共有メニューで YouTube を選ぶ</li><li>タイトル欄を長押し → 「ペースト」</li><li>②を押して、説明欄にキャプションをペースト</li><li>内容を確認して、投稿する</li>";
-    $("lead").textContent = "①でタイトルのコピーと共有メニュー、②でキャプションのコピーです。";
+    $("steps").innerHTML = "<li>①を押す → 共有メニューで YouTube を選ぶ</li><li>タイトル欄を長押し → 「ペースト」</li><li>②を押して、説明欄にキャプションをペースト</li>" + (tags ? "<li>③を押して、タグ欄にタグをペースト</li>" : "") + "<li>内容を確認して、投稿する</li>";
+    $("lead").textContent = tags ? "①でタイトルのコピーと共有メニュー、②でキャプション、③でタグのコピーです。" : "①でタイトルのコピーと共有メニュー、②でキャプションのコピーです。";
+    if (tags) { $("tags").textContent = tags; $("tagCard").hidden = false; $("tagBtn").hidden = false; }
     document.querySelector("#capCard .cap-title").textContent = "CAPTION（説明欄）";
   }
   var files = [];
@@ -231,6 +239,10 @@
 
   $("copyTitleBtn").addEventListener("click", function () {
     copyText(title).then(function (ok) { say(ok ? "タイトルをコピーしました。" : "コピーできませんでした。", ok ? "ok" : "err"); });
+  });
+
+  $("tagBtn").addEventListener("click", function () {
+    copyText(tags).then(function (ok) { say(ok ? "タグをコピーしました。YouTube のタグ欄にペーストしてください。" : "コピーできませんでした。タグを長押しして選んでください。", ok ? "ok" : "err"); });
   });
 
   copyBtn.addEventListener("click", function () {
