@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261109-series",
+  "date": "2026-11-09",
+  "dow": "月",
+  "time": "12:00",
+  "type": "series",
+  "label": "世界の国を全部おぼえる（毎日5ヶ国：問題 → 答え）",
+  "sub": 20766,
+  "copy": 27688,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "タイ"
+  ],
+  "texts": {
+    "x": {
+      "main": "【世界の国を全部おぼえる】アジア編 11/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+      "reply": "答えは「タイ」！\nインドシナ半島の中央\n南に細くのびる半島をもつ\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-series"
+    },
+    "threads": {
+      "main": "【世界の国を全部おぼえる】アジア編 11/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理",
+      "reply": "答えは「タイ」！\nインドシナ半島の中央\n南に細くのびる半島をもつ\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-series"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}
