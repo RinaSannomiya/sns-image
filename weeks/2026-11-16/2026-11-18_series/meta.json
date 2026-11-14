@@ -1,0 +1,33 @@
+{
+  "id": "pm-20261118-series",
+  "date": "2026-11-18",
+  "dow": "水",
+  "time": "12:00",
+  "type": "series",
+  "label": "世界の国を全部おぼえる（毎日5ヶ国：問題 → 答え）",
+  "sub": 20775,
+  "copy": 27700,
+  "files": [
+    "01-question.png",
+    "02-answer.png"
+  ],
+  "answers": [
+    "インド"
+  ],
+  "texts": {
+    "x": {
+      "main": "【世界の国を全部おぼえる】アジア編 20/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理 #地理クイズ",
+      "reply": "答えは「インド」！\n南アジアにつき出す\n三角形の大きな半島の国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=x&utm_medium=social&utm_campaign=daily-series"
+    },
+    "threads": {
+      "main": "【世界の国を全部おぼえる】アジア編 20/45\n今日の1ヶ国。\n赤い線の国、名前を言えますか？\n\n答えは返信で👇\n\n#世界地理",
+      "reply": "答えは「インド」！\n南アジアにつき出す\n三角形の大きな半島の国\n\nぜんぶ覚えたか、地図パズルPieceMapでテストできるよ👇\nhttps://piecemap.net/?utm_source=threads&utm_medium=social&utm_campaign=daily-series"
+    }
+  },
+  "main_images": [
+    "01-question.png"
+  ],
+  "reply_images": [
+    "02-answer.png"
+  ]
+}
